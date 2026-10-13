@@ -1,6 +1,6 @@
 [submodule "carbon"]
 	path = carbon
-	url = https://github.com/viperproject/carbon.git
+	url = https://github.com/jwkai/carbon.git
 [submodule "silicon"]
 	path = silicon
-	url = https://github.com/viperproject/silicon.git
+	url = https://github.com/jwkai/silicon.git
